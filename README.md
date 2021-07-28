@@ -1,5 +1,4 @@
 # Gradem
-
 Hi Teachers!
 
 Gradem™ is a grading and comments generator tool for IB MYP. It currently only supports MYP Design. 
